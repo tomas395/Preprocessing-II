@@ -161,7 +161,7 @@ p {
   font-family: 'Roboto', sans-serif;
 }
 img {
-  max-width: 100%;
+  max-width: width: 100%;
   height: auto;
 }
 .container {
@@ -193,13 +193,13 @@ nav a {
 .nav-img {
   display: flex;
   justify-content: center;
-  width: 100%;
+  width: width: 100%;
 }
 .header-border {
   max-width: 1000px;
-  border-bottom: 2px dashed #C0C0C0;
-  width: 100%;
+  width: width: 100%;
   margin: 0 auto;
+  border-bottom: 2px dashed #C0C0C0;
 }
 .top-img {
   margin-bottom: 3%;
@@ -208,7 +208,7 @@ header {
   display: flex;
   justify-content: space-between;
   max-width: 800px;
-  width: 100%;
+  width: width: 100%;
   margin: 13px auto;
 }
 .top-fun {
@@ -218,10 +218,10 @@ header {
 }
 .footer {
   max-width: 1000px;
-  width: 100%;
+  width: width: 100%;
+  margin: 0 auto;
   border-top: 2px dashed silver;
   background: #FFEBCD;
-  margin: 0 auto;
 }
 .footer p {
   text-align: center;

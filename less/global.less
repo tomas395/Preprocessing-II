@@ -41,7 +41,7 @@ p {
 }
 
 img {
-  max-width: 100%;
+  max-width: @maxW;
   height: auto;
 }
 
@@ -53,13 +53,5 @@ img {
 
 
 .btn {
-  height: 3.5rem;
-  width: 80%;
-  padding: 4%;
-  border: 1px;
-  border-radius: 15px;
-  background-color: @eastern-blue;
-  font-size: 1.5rem;
-  color: @white;
-  text-align: center;
+  .btn();
 }

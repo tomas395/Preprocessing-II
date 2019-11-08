@@ -180,7 +180,7 @@ img {
   color: #FFFFFF;
   text-align: center;
 }
-.top-border {
+.just-for-border {
   max-width: 1000px;
   width: 100%;
   border-top: 2px dashed silver;
@@ -190,7 +190,7 @@ nav {
 }
 nav a {
   text-decoration: none;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   margin-left: 20px;
   line-height: 2.5;
   color: #212529;
@@ -212,7 +212,7 @@ header {
   justify-content: space-between;
   max-width: 800px;
   width: 100%;
-  margin: 0 auto;
+  margin: 13px auto;
 }
 .top-fun {
   display: flex;

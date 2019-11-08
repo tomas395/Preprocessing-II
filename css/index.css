@@ -180,11 +180,6 @@ img {
   color: #FFFFFF;
   text-align: center;
 }
-.just-for-border {
-  max-width: 1000px;
-  width: 100%;
-  border-top: 2px dashed silver;
-}
 nav {
   display: inline;
 }
@@ -201,8 +196,10 @@ nav a {
   width: 100%;
 }
 .header-border {
+  max-width: 1000px;
   border-bottom: 2px dashed #C0C0C0;
   width: 100%;
+  margin: 0 auto;
 }
 .top-img {
   margin-bottom: 3%;
